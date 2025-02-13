@@ -1,0 +1,14 @@
+[
+  {
+    "task": "make cli to do",
+    "completed": true
+  },
+  {
+    "task": "check its working",
+    "completed": true
+  },
+  {
+    "task": "mark all as complete.",
+    "completed": true
+  }
+]
